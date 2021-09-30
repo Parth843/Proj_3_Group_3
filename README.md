@@ -1,5 +1,6 @@
 # Proj_3_Group_3
 Translate the text from an image to any other language.
+
 1)OCR -  
 input: an Image with text in it.
 Output: a text string of the text in image
